@@ -7,3 +7,6 @@ E:\Documentos Lucas\Visual Studio 2015\Projects\Curso\Enumeracoes\Enumeracoes\ob
 E:\Documentos Lucas\Visual Studio 2015\Projects\Curso\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.csproj.GenerateResource.Cache
 E:\Documentos Lucas\Visual Studio 2015\Projects\Curso\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.exe
 E:\Documentos Lucas\Visual Studio 2015\Projects\Curso\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.pdb
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\CursoCSharp\Enumeracoes\Enumeracoes\bin\Debug\Enumeracoes.exe.config
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\CursoCSharp\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.exe
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\CursoCSharp\Enumeracoes\Enumeracoes\obj\Debug\Enumeracoes.pdb

@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Strings
+namespace DataHora
 {
     public partial class Form1 : Form
     {
@@ -17,15 +17,9 @@ namespace Strings
             InitializeComponent();
         }
 
-        private void btnExecutar_Click(object sender, EventArgs e)
+        private void dateTimePicker1_ValueChanged(object sender, EventArgs e)
         {
-            string nome = "Salário: R$ ";
-
-            //lblResultado.Text = nome.Remove(0, 5);
-
-            bool verificar = nome.Contains("Lucas");
-
-            lblResultado.Text = $"{lblResultado.Text} {verificar.ToString()} {nome.Length}";
+            label1.Text = $" Esse é o {dateTimePicker1.Value.DayOfYear.ToString()}º dia de {dateTimePicker1.Value.Year.ToString()}";
         }
     }
 }

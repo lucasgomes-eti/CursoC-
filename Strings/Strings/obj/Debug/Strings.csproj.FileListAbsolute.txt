@@ -7,3 +7,12 @@ E:\Documentos Lucas\Visual Studio 2015\Projects\Curso\Strings\Strings\obj\Debug\
 E:\Documentos Lucas\Visual Studio 2015\Projects\Curso\Strings\Strings\obj\Debug\Strings.csproj.GenerateResource.Cache
 E:\Documentos Lucas\Visual Studio 2015\Projects\Curso\Strings\Strings\obj\Debug\Strings.exe
 E:\Documentos Lucas\Visual Studio 2015\Projects\Curso\Strings\Strings\obj\Debug\Strings.pdb
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\CursoCSharp\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\CursoCSharp\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\CursoCSharp\Strings\Strings\obj\Debug\Strings.pdb
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\CursoCSharp\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\CursoCSharp\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\CursoCSharp\Strings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\CursoCSharp\Strings\Strings\obj\Debug\Strings.Form1.resources
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\CursoCSharp\Strings\Strings\obj\Debug\Strings.Properties.Resources.resources
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\CursoCSharp\Strings\Strings\obj\Debug\Strings.csproj.GenerateResource.Cache
